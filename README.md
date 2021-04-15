@@ -1,6 +1,6 @@
 # ghidraheadless_binexport
 
-The following repo contains a no frills Python script to support using Ghidra headless (i.e., the API)  with BinExport, ```auto_bindiff.py```. Additionally, the Jupyter notebook ```binexport_automation.ipynb``` can be used to create ```.BinDiff``` files, and ultimately to correlate the function names with the BinDiff output. 
+The following repo contains a no frills Python script ( ```auto_bindiff.py```) to support using Ghidra headless (i.e., the API) with BinExport. Additionally, the Jupyter notebook ```binexport_automation.ipynb``` can be used to create ```.BinDiff``` files, and ultimately to correlate function names with the BinDiff output. 
 
 ## Prerequisites: 
 - Python
