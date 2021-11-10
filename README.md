@@ -92,4 +92,4 @@ final_combined.query('similarity < 1.0')
 
 
 ## Author Information
-Kayla Afanador, knkeen@nps.edu
+-- anonymous -- 
